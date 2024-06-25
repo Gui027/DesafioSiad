@@ -19,7 +19,7 @@ Lembre-se que esse prazo também será levado em consideração, não fique com 
 ## Problema a ser resolvido
 
 <p align="center">
-  <img src="https://i.postimg.cc/zGbr6FtZ/Whats-App-Image-2024-06-25-at-10-34-39.jpg" alt="BackEndBR" width="230" />
+  <img src="https://i.postimg.cc/zGbr6FtZ/Whats-App-Image-2024-06-25-at-10-34-39.jpg" alt="BackEndBR" width="350" />
 </p>
 
 Back-end:
